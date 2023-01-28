@@ -1,0 +1,14 @@
+{
+    "name": "pacakagevendor/translator",
+    "description": "this package provide language translator for web application",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gautam Kumar",
+            "email": "gautam.s.mail.665@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
